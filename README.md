@@ -4,7 +4,6 @@
 
 A full-stack To-Do List application with authentication, built using the MERN (MongoDB, Express.js, React, Node.js) stack and Next-auth for secure user authentication.
 
-![To-Do List App Screenshot](screenshot.png)
 
 ## Features
 
